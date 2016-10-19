@@ -1,2 +1,2 @@
-# web-test3
-a small web project demonstarting the use of Github
+ # web-test3
+a small web project demonstarting the use of Github and merging pull requests
